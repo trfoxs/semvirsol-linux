@@ -1,0 +1,80 @@
+SEMVIRSOL PROPRIETARY NON-COMMERCIAL BINARY LICENCE
+
+Copyright (c) 2026 Se.mu Design
+Contact: info@semu.work
+All rights reserved.
+
+IMPORTANT: This is a custom proprietary licence, not an open-source licence.
+No source code is provided with the SemvirSol Linux Beta distribution.
+
+1. DEFINITIONS
+"Software" means the SemvirSol compiled binary, the Semvir rule database
+(including the .smdb file and detection rules), and any release package or
+other materials expressly marked as covered by this licence. Third-party
+components remain subject to their own applicable licence terms.
+
+2. LIMITED PERMISSION
+Subject to this licence, Semu Design grants the individual recipient a
+limited, personal, non-exclusive, non-transferable, revocable permission to
+download the Software from the official SemvirSol repository or release page,
+install it, and run it for lawful, non-commercial purposes only.
+The recipient may make only the copies technically necessary to install and
+run the downloaded release on systems under their control. This permission
+does not allow redistribution of those copies.
+
+3. NON-COMMERCIAL USE ONLY
+Commercial use is not permitted without prior written permission from
+Semu Design. Commercial use includes use in a business or paid hosting
+operation, use to provide security or scanning services to customers, use in a
+managed service, or any use primarily intended for commercial advantage or
+monetary compensation. To request separate commercial permission, contact
+info@semu.work.
+
+4. RESTRICTIONS
+Unless Semu Design gives prior written permission, you must not:
+(a) sell, rent, lease, sublicense, share, mirror, publish, or redistribute the
+    Software or any part of its binary distribution;
+(b) modify, adapt, translate, patch, or create derivative works of the Software;
+(c) remove or alter copyright, ownership, or licence notices;
+(d) extract, reproduce, republish, or redistribute the detection database,
+    rules, signatures, or other proprietary contents;
+(e) reverse engineer, decompile, or disassemble the Software, except to the
+    limited extent that applicable law does not permit this restriction; or
+(f) use the SemvirSol name, logo, or branding to imply endorsement or to
+    distribute a modified or unauthorised release.
+
+5. OWNERSHIP
+The Software is proprietary and remains the property of Semu Design and/or its
+respective rights holders. This licence grants only the limited permission
+stated above. It does not transfer ownership or grant access to source code.
+
+6. TERMINATION
+This permission terminates automatically if you materially breach this
+licence. Upon termination, you must stop using the Software and delete copies
+in your possession, except where retention is required by applicable law.
+
+7. NO WARRANTY; SECURITY LIMITATIONS
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY KIND, TO THE
+MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW. SEMU DESIGN DOES NOT WARRANT THAT
+THE SOFTWARE WILL DETECT EVERY THREAT, BE ERROR-FREE, OR OPERATE WITHOUT
+INTERRUPTION. SemvirSol is beta security software and must not be treated as
+the sole security control for any system. Keep backups and review detections
+before relying on quarantine actions.
+
+8. LIMITATION OF LIABILITY
+To the maximum extent permitted by applicable law, Semu Design shall not be
+liable for indirect, incidental, special, consequential, or loss-of-data
+damages arising from use of the Software. Nothing in this licence excludes
+liability that cannot lawfully be excluded or limited.
+
+9. THIRD-PARTY MATERIALS
+This licence does not replace or override licences that apply to third-party
+software or other third-party material included in or used with a release.
+Where required, the applicable third-party notices and licence terms govern
+those components.
+
+10. CONTACT
+For written permission, commercial licensing, or licence questions:
+info@semu.work
+
+End of licence.
