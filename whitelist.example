@@ -1,0 +1,6 @@
+# Semvir whitelist template
+# Leave entries commented until you have reviewed a detection.
+# One exact file path per line:
+# /var/www/example.test/path/to/trusted-file.php
+# A directory path must end with a slash:
+# /var/www/example.test/wp-content/plugins/approved-plugin/

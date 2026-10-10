@@ -1,0 +1,41 @@
+{
+  "version": "0.1.0",
+  "watch_paths": {
+    "windows": ["C:/Semvir/test"],
+    "linux": ["/var/www"]
+  },
+  "exclude_paths": {
+    "windows": [],
+    "linux": []
+  },
+  "database": {
+    "directory": {
+      "windows": "C:/Semvir/db",
+      "linux": "."
+    },
+    "filename": "semvir-rules.smdb"
+  },
+  "scan": {
+    "recursive": true,
+    "min_file_size_bytes": 0,
+    "max_file_size_mb": 32,
+    "workers": 4
+  },
+  "quarantine": {
+    "enabled": false,
+    "directory": {
+      "windows": "C:/Semvir/.quarantine",
+      "linux": ".quarantine"
+    }
+  },
+  "integrity": {
+    "enabled": true,
+    "delay_seconds": 3
+  },
+  "logging": {
+    "path": {
+      "windows": "C:/Semvir/semvir.log",
+      "linux": "semvir.log"
+    }
+  }
+}
