@@ -45,7 +45,7 @@ Measurements so far were made on Ubuntu under WSL2 and do not prove a guaranteed
 
 ## Download and install
 
-1. Open **Releases** and download the archive matching your Linux architecture, for example `semvirsol-linux-amd64-v0.1.0.tar.gz`.
+1. Open **Releases** and download the archive matching your Linux architecture, for example `semvirsol-linux-v0.1.0.tar.gz`.
 2. Extract it to a dedicated directory, such as `/opt/semvir`.
 3. Review `config` before running. Set `watch_paths` to the directories you intend to monitor, check the database path and review quarantine settings.
 4. Ensure the account running Semvir can read the database and watched files and write to the log and quarantine directories.
